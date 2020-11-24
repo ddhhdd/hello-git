@@ -7,6 +7,7 @@ public class Main {
         System.out.println("2020年11月24日14:50:44");
 
         System.out.println("how to do?");
+        System.out.println("2020年11月24日15:36:31");
 
     }
 }
