@@ -1,0 +1,8 @@
+package com.ddhhdd;
+
+public class Main {
+
+    public static void main(String[] args) {
+        System.out.println("hello git 2020年11月24日14:28:41");
+    }
+}
